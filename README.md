@@ -13,14 +13,17 @@ The backbone of any e-commerce platform is its backend system, which handles the
 
 This back-end application is a functional Express.js API utilising Sequelize to interact with MySQL database. 
 With the help of Insomnia Core, the user is able to:
+
 **GET routes for ALL**
 - categories
 - products
 - tags
+
 **GET routes for a SINGLE**
 - category
 - product
 - tag
+
 **POST, PUT and DELETE routes for**
 - categories
 - products
