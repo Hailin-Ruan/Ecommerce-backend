@@ -28,8 +28,8 @@ With the help of Insomnia Core, the user is able to:
 
 ## Screen Recording
 
-![SVG logo generator walkthrough gif](./gif/walkthrough.gif)
-[![Youtube Link](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/4vh1_Nq_AOA)
+![Ecommerce back-end walkthrough gif](./assets/image/REC-20230824013038.gif)
+![Youtube Link](https://youtu.be/8F0IzkLCnSI)
 
 
 ## Built With:
