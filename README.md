@@ -29,7 +29,7 @@ With the help of Insomnia Core, the user is able to:
 ## Screen Recording
 
 ![Ecommerce back-end walkthrough gif](./assets/image/REC-20230824013038.gif)
-![Youtube Link](https://youtu.be/8F0IzkLCnSI)
+[Youtube Link](https://youtu.be/8F0IzkLCnSI)
 
 
 ## Built With:
